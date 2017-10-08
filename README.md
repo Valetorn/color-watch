@@ -1,1 +1,1 @@
-# color-watch
+# starter-kit
